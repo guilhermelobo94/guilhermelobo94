@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Lenovo (Bootbox project)
 - 🌱 I’m currently learning deep learning 
 - 👯 I’m looking to collaborate on data science projects
-- 🤔 I’m looking for help with machine learning
-- 💬 Ask me about pandas and numpy
+- 🤔 I’m looking for help with statitics
+- 💬 Ask me about Python
 - 📫 How to reach me: guilhermegclobo94@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: The Eiffel Tower can be 15 cm taller during the summer, due to thermal expansion meaning the iron heats up, the particles gain kinetic energy and take up more space.
 
