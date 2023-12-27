@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Lenovo (Bootbox project)
-- 🌱 I’m currently learning deep learning 
+- 🔭 I’m currently working at Lenovo on the R&D team. My most recently job is the bootbox project where I develope a tool using Python and Shell Script to solve issues related to repair centers and diagnostics. 
+- 🌱 I’m currently learning machine learning engineer at Fiap.
 - 👯 I’m looking to collaborate on data science projects
 - 🤔 I’m looking for help with statitics
 - 💬 Ask me about Python
