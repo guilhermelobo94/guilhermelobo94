@@ -3,10 +3,10 @@
 
 **guilhermelobo94/guilhermelobo94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working at Lenovo on the R&D team. My most recently job is the bootbox project where I develope a tool using Python and Shell Script to solve issues related to repair centers and diagnostics. 
-- 🌱 I’m currently learning machine learning engineer at Fiap.
-- 👯 I’m looking to collaborate on data science projects
-- 🤔 I’m looking for help with statitics
+- 🔭 My most recently job was working in the bootbox project where I develope a tool using Python and Shell Script to solve issues in the repair center. 
+- 🌱 I have a master degree in Machine Learning Engineer.
+- 👯 I’m looking to collaborate on projects
+- 🤔 I’m looking to improve my hard skills as programar
 - 💬 Ask me about Python
 - 📫 How to reach me: guilhermegclobo94@gmail.com
 - 😄 Pronouns: He/Him
